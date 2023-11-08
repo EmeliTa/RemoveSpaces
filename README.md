@@ -13,6 +13,9 @@ The program defines a method called `removeWhiteSpaces` that takes an input stri
    ```bash
    javac RemoveSpaces.java
 
+
+## Evidence screenshot    
+
 ![removeSpaces](https://github.com/EmeliTa/RemoveSpaces/assets/31098448/a8f22084-a9c9-411a-974c-0f6c1bdebd5d)
 
    
